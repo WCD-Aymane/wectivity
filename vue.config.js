@@ -36,7 +36,7 @@ export default {
         '~': path.resolve(__dirname, './src'),
         src: path.resolve(__dirname, './src'),
         assets: path.resolve(__dirname, './src/assets'),
-        components: path.resolve(__dirname, './src/components'),
+        components: path.resolve(__dirname, './src/test'),
       },
       fallback: {
         domain: import.meta.resolve('domain-browser'),
